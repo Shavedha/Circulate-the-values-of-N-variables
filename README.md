@@ -32,7 +32,8 @@ def circulate():
 ```
 
 ## Output:
-![OUTPUT](./exo2.png)
+![py ex 2](https://user-images.githubusercontent.com/93427376/144181016-72ca44cb-36a9-48b5-837e-bf5b9e9cbb09.PNG)
+
 
 ## Result:
 Thus the circulating of the values are successfully executed 
